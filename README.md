@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🙂 I'm Ana!
+- 🙂 I'm Ana Margarida Costa!
 - 🌴 I live in Portugal.
 - 💙 I have a degree in Humans Relations and Organisational Communication, but I've changed my professional into programming.
 - 🔭 I’m currently working as Junior Frontend Developer.
