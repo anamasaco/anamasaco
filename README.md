@@ -57,6 +57,9 @@
     <a href="https://mui.com/pt/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="45" height="45"/>
     </a>
+    <a href="https://www.atlassian.com/software/jira">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="JIRA" width="45" height="45"/>
+    </a>
     <a href="https://bitbucket.org/product/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="BitBucket" width="45" height="45"/>
     </a>
@@ -68,9 +71,6 @@
     </a>
     <a href="https://about.gitlab.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45"/>
-    </a>
-    <a href="https://www.slack.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="45" height="45"/>
     </a>
     <a href="https://figma.com">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
