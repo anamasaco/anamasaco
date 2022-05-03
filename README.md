@@ -2,7 +2,7 @@
 
 - 🙂 I'm <b> Ana Margarida Costa </b>!
 - 🌴 I live in Portugal.
-- 💙 I have a degree in Humans Relations and Organisational Communication, but I've changed my professional into programming.
+- 💙 I have a degree in Humans Relations and Organisational Communication, but I've changed my professional field into programming.
 - 🔭 I’m currently working as Junior Frontend Developer.
 - 🎯 I'm currently improving my Javascript, ReactJS and Redux.
 - 👯 I try to practice, learn and collaborate with everyone.
